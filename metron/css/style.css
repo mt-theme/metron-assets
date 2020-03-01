@@ -84,6 +84,25 @@ body {
   cursor: pointer !important;
 }
 
+.title2 {
+  color: transparent;
+  -webkit-text-stroke: 0.5px rgb(255, 255, 255);
+  letter-spacing: 0.04em;
+}
+
+.title-mobile {
+  color: transparent;
+  -webkit-text-stroke: 1px black;
+  letter-spacing: 0.04em;
+}
+
+.title-3d{
+  color: #fafafa;
+  white-space: nowrap;
+  letter-spacing: 0;
+  text-shadow: 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px 4px 0px #666, 0px 5px 0px #555, 0px 6px 0px #444, 0px 7px 0px #333, 0px 8px 7px #001135;
+}
+
 .bg-steps {
   display: flex;
   margin: 0 -10px;
