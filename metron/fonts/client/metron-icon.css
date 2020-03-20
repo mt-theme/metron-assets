@@ -34,6 +34,14 @@
     box-shadow: 0 1px 6px #029de39a;
     /*margin-bottom: 16px;*/
     }
+    .btn-qqpay {
+      background: linear-gradient(to right, #e8343d, #e8343d) !important;
+      color: white !important;
+      border-color: transparent;
+      border: none;
+      box-shadow: 0 1px 6px #e8343d9a;
+      /*margin-bottom: 16px;*/
+    }
     .btn-sstap,.btn-SSTap {
     background: linear-gradient(to right,#00545b,#149fa0) !important;
     color: white !important;
