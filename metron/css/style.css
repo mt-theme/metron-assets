@@ -28744,49 +28744,57 @@ strong {
     .kt-callout--brand.kt-callout--diagonal-bg {
       background-color: #fff; }
       .kt-callout--brand.kt-callout--diagonal-bg:before {
-        background-color: rgba(54, 108, 243, 0.15); }
+        background-color: rgba(54, 108, 243, 0.15);
+        pointer-events: none; }
   .kt-callout--light {
     background-color: rgba(255, 255, 255, 0.07); }
     .kt-callout--light.kt-callout--diagonal-bg {
       background-color: #fff; }
       .kt-callout--light.kt-callout--diagonal-bg:before {
-        background-color: rgba(255, 255, 255, 0.15); }
+        background-color: rgba(255, 255, 255, 0.15);
+        pointer-events: none; }
   .kt-callout--dark {
     background-color: rgba(40, 42, 60, 0.07); }
     .kt-callout--dark.kt-callout--diagonal-bg {
       background-color: #fff; }
       .kt-callout--dark.kt-callout--diagonal-bg:before {
-        background-color: rgba(40, 42, 60, 0.15); }
+        background-color: rgba(40, 42, 60, 0.15);
+        pointer-events: none; }
   .kt-callout--primary {
     background-color: rgba(88, 103, 221, 0.07); }
     .kt-callout--primary.kt-callout--diagonal-bg {
       background-color: #fff; }
       .kt-callout--primary.kt-callout--diagonal-bg:before {
-        background-color: rgba(88, 103, 221, 0.15); }
+        background-color: rgba(88, 103, 221, 0.15);
+        pointer-events: none; }
   .kt-callout--success {
     background-color: rgba(29, 201, 183, 0.07); }
     .kt-callout--success.kt-callout--diagonal-bg {
       background-color: #fff; }
       .kt-callout--success.kt-callout--diagonal-bg:before {
-        background-color: rgba(29, 201, 183, 0.15); }
+        background-color: rgba(29, 201, 183, 0.15);
+        pointer-events: none; }
   .kt-callout--info {
     background-color: rgba(85, 120, 235, 0.07); }
     .kt-callout--info.kt-callout--diagonal-bg {
       background-color: #fff; }
       .kt-callout--info.kt-callout--diagonal-bg:before {
-        background-color: rgba(85, 120, 235, 0.15); }
+        background-color: rgba(85, 120, 235, 0.15);
+        pointer-events: none; }
   .kt-callout--warning {
     background-color: rgba(255, 184, 34, 0.07); }
     .kt-callout--warning.kt-callout--diagonal-bg {
       background-color: #fff; }
       .kt-callout--warning.kt-callout--diagonal-bg:before {
-        background-color: rgba(255, 184, 34, 0.15); }
+        background-color: rgba(255, 184, 34, 0.15);
+        pointer-events: none; }
   .kt-callout--danger {
     background-color: rgba(253, 57, 122, 0.07); }
     .kt-callout--danger.kt-callout--diagonal-bg {
       background-color: #fff; }
       .kt-callout--danger.kt-callout--diagonal-bg:before {
-        background-color: rgba(253, 57, 122, 0.15); }
+        background-color: rgba(253, 57, 122, 0.15);
+        pointer-events: none; }
 
 .kt-iconbox {
   padding: 1.5rem; }
