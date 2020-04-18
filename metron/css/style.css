@@ -8884,12 +8884,12 @@ a.text-dark:hover, a.text-dark:focus {
       transform: rotate(0); }
 
 .accordion.accordion-panel .card {
-  border-radius: 4px !important; }
+  border-radius: 10px !important; }
   .accordion.accordion-panel .card .card-header .card-title {
     font-size: 1.1rem;
     padding: 1.25rem;
     background-color: #fff;
-    border-radius: 4px !important; }
+    border-radius: 10px !important; }
   .accordion.accordion-panel .card .card-body {
     padding-top: 0;
     border: 0;
