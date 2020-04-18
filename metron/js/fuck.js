@@ -1,5 +1,6 @@
 /* Anti 360 Browser */
 /* Info: https://github.com/mumuy/browser */
+
 (function (root, factory) {
     if (typeof define === 'function' && (define.amd || define.cmd)) {
         // AMD&CMD
