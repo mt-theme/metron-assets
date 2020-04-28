@@ -34992,7 +34992,8 @@ body {
       .kt-header--minimize .kt-header .kt-header__brand-logo-default {
         display: none; }
       .kt-header--minimize .kt-header .kt-header__brand-logo-sticky {
-        display: inline-block; } }
+        display: inline-block;
+        white-space: nowrap; } }
 
 @-webkit-keyframes kt-header-minimize {
   from {
