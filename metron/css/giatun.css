@@ -518,6 +518,45 @@
 	.nav.nav-pills .nav-qqpay .nav-link.active:after {
 	color: #FFFFFF; }
 
+.nav.nav-pills .nav-crypto .show > .nav-link,
+.nav.nav-pills .nav-crypto .nav-link:hover:not(.active) {
+	color: #f79115;
+	background-color: transparent; }
+	.nav.nav-pills .nav-crypto .show > .nav-link .nav-text,
+	.nav.nav-pills .nav-crypto .nav-link:hover:not(.active) .nav-text {
+	color: #f79115; }
+	.nav.nav-pills .nav-crypto .show > .nav-link .nav-icon i,
+	.nav.nav-pills .nav-crypto .nav-link:hover:not(.active) .nav-icon i {
+	color: #f79115; }
+	.nav.nav-pills .nav-crypto .show > .nav-link .nav-icon .svg-icon svg g [fill],
+	.nav.nav-pills .nav-crypto .nav-link:hover:not(.active) .nav-icon .svg-icon svg g [fill] {
+	-webkit-transition: fill 0.3s ease;
+	transition: fill 0.3s ease;
+	fill: #f79115; }
+	.nav.nav-pills .nav-crypto .show > .nav-link .nav-icon .svg-icon svg:hover g [fill],
+	.nav.nav-pills .nav-crypto .nav-link:hover:not(.active) .nav-icon .svg-icon svg:hover g [fill] {
+	-webkit-transition: fill 0.3s ease;
+	transition: fill 0.3s ease; }
+	.nav.nav-pills .nav-crypto .show > .nav-link:after,
+	.nav.nav-pills .nav-crypto .nav-link:hover:not(.active):after {
+	color: #f79115; }
+.nav.nav-pills .nav-crypto .nav-link.active {
+	color: #FFFFFF;
+	background-color: #f79115; }
+	.nav.nav-pills .nav-crypto .nav-link.active .nav-text {
+	color: #FFFFFF; }
+	.nav.nav-pills .nav-crypto .nav-link.active .nav-icon i {
+	color: #FFFFFF; }
+	.nav.nav-pills .nav-crypto .nav-link.active .nav-icon .svg-icon svg g [fill] {
+	-webkit-transition: fill 0.3s ease;
+	transition: fill 0.3s ease;
+	fill: #FFFFFF !important; }
+	.nav.nav-pills .nav-crypto .nav-link.active .nav-icon .svg-icon svg:hover g [fill] {
+	-webkit-transition: fill 0.3s ease;
+	transition: fill 0.3s ease; }
+	.nav.nav-pills .nav-crypto .nav-link.active:after {
+	color: #FFFFFF; }
+
 /* user node */
 .media {
 	display: -webkit-box;
