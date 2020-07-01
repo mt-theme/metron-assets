@@ -63,7 +63,7 @@
     color: white !important;
     border-color: transparent;
     border: none;
-    box-shadow: 0 1px 6px rgb(0, 0, 0);
+    box-shadow: 0 1px 6px rgb(41, 48, 92);
     /*margin-bottom: 16px;*/
     }
     .btn-shadowrocket,.btn-Shadowrocket {
@@ -75,11 +75,11 @@
     /*margin-bottom: 16px;*/
     }
     .btn-kitsunebi {
-    background: linear-gradient(to right, #f2885b, #e83c9a) !important;
+    background: linear-gradient(to right, #f2885b, #f2885b) !important;
     color: white !important;
     border-color: transparent;
     border: none;
-    box-shadow: 0 1px 6px rgb(234, 76, 141);
+    box-shadow: 0 1px 6px rgb(242, 136, 91);
     /*margin-bottom: 16px;*/
     }
     .btn-ssr,.btn-SSR {
@@ -107,19 +107,19 @@
     /*margin-bottom: 16px;*/
     }
     .btn-surge,.btn-Surge {
-    background: linear-gradient(to right, #5c97f0, #b769f3) !important;
+    background: linear-gradient(to right, #907cf1, #907cf1) !important;
     color: white !important;
     border-color: transparent;
     border: none;
-    box-shadow: 0 1px 6px #8d7cfab2;
+    box-shadow: 0 1px 6px rgb(144, 124, 241);
     /*margin-bottom: 16px;*/
     }
     .btn-clash,.btn-Clash,.btn-ClashR,.btn-clashR {
-    background: linear-gradient(to right, #152e52, #224f87) !important;
+    background: linear-gradient(to right, #152e52, #152e52) !important;
     color: white !important;
     border-color: transparent;
     border: none;
-    box-shadow: 0 1px 6px rgb(33, 77, 133);
+    box-shadow: 0 1px 6px rgb(14, 31, 57);
     /*margin-bottom: 16px;*/
     }
     .btn-surfboard {
